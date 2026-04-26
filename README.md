@@ -1,2 +1,2 @@
 # Calculator
-This is a simple Python calculator that performs basic operations like +, −, ×, and ÷. It takes user input, shows the result, and handles errors like invalid input or division by zero. It keeps running until the user chooses to exit.
+This is a simple calculator program in Python that lets you perform basic math operations like addition, subtraction, multiplication, and division. You just enter two numbers and choose an operation, and it shows the result instantly. It also handles mistakes like invalid input or division by zero. The program keeps running so you can do multiple calculations until you decide to exit.
