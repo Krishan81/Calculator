@@ -3,6 +3,9 @@ This is a simple calculator program in Python that lets you perform basic math o
 
 # Features
 Supports +, -, *, / operations
+<br>
 Handles invalid inputs gracefully
+<br>
 Prevents division by zero errors
+<br>
 Continuous calculation until user exits
